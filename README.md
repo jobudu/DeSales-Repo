@@ -1,4 +1,4 @@
-#Projects
+# Projects
 
 1.  Data analysis project – Excel & Minitab (MG220)
 2.  Data preparation and visualization project – Tableau Prep and Tableau (MG226)	
